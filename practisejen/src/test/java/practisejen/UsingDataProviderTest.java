@@ -3,7 +3,7 @@ package practisejen;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class UsingDataProvider {
+public class UsingDataProviderTest {
 
 	
 
